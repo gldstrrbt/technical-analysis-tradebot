@@ -9,5 +9,7 @@ Crypto tradebot used for backtesting technical analysis strategies using histori
 
 Trading strategies can be tested under `def sim_trade(dataset)`
 
+When the current strategy under sim_trade is ran on the provided CSV files, it returns 340%. $1000 on an initial investment, returns $3400
+
 ### Requirements
 `pip3 install cbpro mpl_finance numpy bs4`
