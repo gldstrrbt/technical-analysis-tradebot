@@ -16,9 +16,6 @@ import datetime as datetime
 
 
 
-# from pandas_datareader import data
-
-
   
 
 # public_client = cbpro.PublicClient()
