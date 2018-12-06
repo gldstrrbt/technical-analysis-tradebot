@@ -8,12 +8,11 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.ticker as ticker
 import matplotlib.colors as colors
-# import matplotlib.finance as finance
 import mpl_finance 	
 import matplotlib.font_manager as font_manager
 from mpl_finance import candlestick2_ohlc
 import datetime as datetime
-import numpy as np
+
 
 
 
