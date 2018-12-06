@@ -1,0 +1,4 @@
+cbpro 
+mpl_finance 
+numpy 
+bs4
