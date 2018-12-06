@@ -1,4 +1,4 @@
-# ta-crypto-tradebot
+# Technical Analysis Tradebot
 
 Crypto tradebot used for backtesting technical analysis strategies using historical data, and plotting the results to a graph using pyplot. Currently supports the following: 
 
