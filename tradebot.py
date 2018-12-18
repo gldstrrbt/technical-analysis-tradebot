@@ -1,14 +1,11 @@
-import os, json, csv, requests, cbpro
+import os, json, csv, requests, cbpro, matplotlib, mpl_finance
 from bs4 import BeautifulSoup as soup
 import numpy as np
-import matplotlib
-import matplotlib.pyplot
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.ticker as ticker
-import matplotlib.colors as colors
-import mpl_finance 	
+import matplotlib.colors as colors 	
 import matplotlib.font_manager as font_manager
 from mpl_finance import candlestick2_ohlc
 import datetime as datetime
