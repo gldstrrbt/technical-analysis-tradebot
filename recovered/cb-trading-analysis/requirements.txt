@@ -1,0 +1,16 @@
+beautifulsoup4
+cbpro
+google-api-python-client
+google-auth
+google-auth-oauthlib
+matplotlib
+mpl-finance
+numpy
+pandas
+pymongo
+python-binance
+pytz
+requests
+robin-stocks
+selenium
+websocket-client

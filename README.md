@@ -13,3 +13,8 @@ When the current strategy under sim_trade is ran on the provided CSV files, it r
 
 Install required libraries:
 `pip3 install -r requirements.txt`
+
+
+## Recovered `cb` trading / analysis archive
+
+A cleaned archive of related 2019–2020 Coinbase, Binance, Robinhood, Cobinhood, market-cap, backtesting, and strategy experiments has been recovered under [`recovered/cb-trading-analysis/`](./recovered/cb-trading-analysis/README.md). The recovered code is preserved as historical development work; credentials, duplicate backups, third-party vendored packages, logs, browser binaries, large market-data dumps, and wallet recovery material were intentionally excluded.

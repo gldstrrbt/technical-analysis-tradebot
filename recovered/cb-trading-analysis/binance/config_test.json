@@ -1,0 +1,30 @@
+[
+	{
+		"start_balance_override":false,
+		"start_balance":205.8024319,
+		"trigger_threshold_buy_var":4.0,
+		"last_val_override":false,
+		"last_val":0.0,
+		"buy_override":false,
+		"buy":true,
+		"last_price_override":false,
+		"last_price":0.0,
+		"force_sell":false,
+		"force_buy":false,
+		"force_emergency_stop":false,
+		"emergency_stop":false,
+		"emergency_override":false,
+		"emergency_cutoff":1.02,
+		"emergency_period":100,
+		"conditional_override":false,
+		"buy_rsi":0.1, 
+		"sell_rsi":0.95, 
+		"last_val_increase":1.001, 
+		"mod_buy_last_price":1.002, 
+		"mod_sell_last_price":1.006, 
+		"mod_buy_thresh":0.001, 
+		"mod_sell_thresh":0.01,
+		"rsi_period":2,
+		"sleep_wait":3
+	}
+]
