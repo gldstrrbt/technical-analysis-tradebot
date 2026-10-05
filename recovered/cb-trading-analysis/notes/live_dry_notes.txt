@@ -1,0 +1,15 @@
+# live_dry.py 
+# Worked great while at work. Started running around 10:39AM Feb 13th 2019
+# At one point, returned 10% 
+# Does not work so well on the ride down
+# Set to 5 second intervals
+# Trades based on stochastic rsi set to range of 14 steps 
+
+# live_dry_b.py 
+# Failed
+# Same settings as live_dry.py except it was set to 60 second intervals
+
+# live_dry_c.py
+# Just testing now that I got home
+# Same settings as live_dry.py except that when it goes to buy the quantity needs to be 2% more than the last buy order  
+# Updated to 1% as it was taking too long to hit 2%

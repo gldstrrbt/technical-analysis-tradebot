@@ -25,3 +25,7 @@ and live/dry-run prototypes.
 
 These files are preserved as historical development work and may rely on APIs,
 packages, or endpoints that have changed since they were written.
+
+## Additional recovery batch
+
+A later `cb` folder pass added distinct historical variants and utilities for ATH tracking, CoinGecko/market-cap analysis, Robinhood RSI testing, yield-curve work, crypto news crawling, and additional Binance/Coinbase experiments. Exact duplicates and obvious backup snapshots were omitted; generated datasets and credential-only files were not committed. See [`BATCH_NOTES.md`](./BATCH_NOTES.md).
