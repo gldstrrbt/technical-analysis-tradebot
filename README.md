@@ -1,5 +1,7 @@
 # Technical Analysis Tradebot
 
+> **Originally built: 2018.** Historical archive. This code reflects the tools, APIs, browser constraints, and coding practices of that period, not my current stack or standards.
+
 Crypto tradebot used for backtesting technical analysis strategies using historical data, and plotting the results to a graph using pyplot. Currently supports the following: 
 
 * Relative Strength Index (RSI)
